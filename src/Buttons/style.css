@@ -1,4 +1,4 @@
-.buttons__button {
+.buttons {
     border: none;
     background: none;
     cursor: pointer;
@@ -7,11 +7,11 @@
     transition: 0.5s;
 }
 
-.buttons__button:hover {
+.buttons:hover {
     color: rgb(23, 166, 166);
 }
 
-.buttons__button:disabled {
+.buttons:disabled {
     color: lightgray;
     cursor: auto;
 }
