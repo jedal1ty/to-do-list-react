@@ -8,6 +8,19 @@ This is a Task List created using React.js. Task List without interactions yet.
 
 ![homepage demo](images/demo.jpg)
 
+# Technologes used:
+
+- HTML
+- CSS
+- JavaScript (ES6+)
+- Normalize CSS
+- BEM Convention
+- Flex 
+- Grid
+- React App
+- WebPack
+- Babel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
