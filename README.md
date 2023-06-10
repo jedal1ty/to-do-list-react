@@ -6,7 +6,7 @@ This is a Task List created using React.js. Task List without interactions yet.
 
 [Task List in React.js](https://jedal1ty.github.io/to-do-list-react/)
 
-![homepage demo](images/demo.jpg)
+![homepage demo](/public/images/demo.jpg)
 
 # Getting Started with Create React App
 
