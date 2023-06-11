@@ -15,3 +15,12 @@
     color: lightgray;
     cursor: auto;
 }
+
+@media (max-width: 767px) {
+ 
+    .buttons {
+        display: grid;
+        margin: 10px auto;
+        grid-template-columns: auto;   
+    }
+}
